@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SFERKA : MonoBehaviour
 {
+
     // Start is called before the first frame update
     public GameObject SFERISHE;
     void Start()
